@@ -1,0 +1,1 @@
+import FizzBuzz from "./solution";
